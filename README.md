@@ -31,19 +31,21 @@ This app is powered by:
 
 1. Clone the repository:
 
-   git clone https://github.com/yourusername/document-qa-bot.git
-   cd document-qa-bot
+   git clone https://github.com/KJithinReddy/Document-Q-A.git
+   
+   cd Document-Q-A
 
-2. Create a virtual environment and activate it:
+3. Create a virtual environment and activate it:
 
    python -m venv venv
+   
    source venv/bin/activate       # On Windows: venv\Scripts\activate
 
-3. Install dependencies:
+5. Install dependencies:
 
    pip install -r requirements.txt
 
-4. Set up environment variables:
+6. Set up environment variables:
 
    Create a `.env` file in the root folder and add:
 

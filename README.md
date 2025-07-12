@@ -102,4 +102,4 @@ chromadb
 
 ------------------------------------------------------------
 
-Built with using LangChain + Groq + Streamlit.
+Built using LangChain + Groq + Streamlit.
